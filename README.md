@@ -1,1 +1,1 @@
-# ruby-declension-dictionary
+# Declension dictionary in Ruby
