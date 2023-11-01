@@ -1,0 +1,1 @@
+# ruby-declension-dictionary
